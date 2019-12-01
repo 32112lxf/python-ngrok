@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 # 建议Python 2.7.9 或 Python 3.4.2 以上运行
-# 项目地址: https://github.com/hauntek/python-ngrok
+# 项目地址: https://github.com/xiulingorigin/python-ngrok
 # Version: v1.52
 import socket
 import ssl
@@ -13,7 +13,7 @@ import time
 import logging
 import threading
 
-host = 'tunnel.qydev.com' # Ngrok服务器地址
+host = 'xiulingcloud.xyz' # Ngrok服务器地址
 port = 4443 # 端口
 bufsize = 1024 # 吞吐量
 
